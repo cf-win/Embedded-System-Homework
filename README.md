@@ -7,3 +7,7 @@
 
 ## 开源版权说明
 本项目采用 [MIT 许可证](https://opensource.org/licenses/MIT)，允许任何人自由使用、修改和分发代码。
+
+## 作业完成情况
+- 已完成 Git 工具的配置和使用。
+- 已完成 2 次 commit 提交。
